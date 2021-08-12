@@ -6,4 +6,4 @@
 
 Url from which data is fetched: https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521
 
-**_Feel free to connect if you face any doubts/issues. Thanks!!_**
+**_Feel free to connect if you face any doubts/issues. Thaks!!_**
